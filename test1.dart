@@ -12,5 +12,5 @@ Map<String,int> score = {'Math':90,'Science':90,'English':90};
 
 final String name1 = 'Name :$name age: $age ===>${age+height}';
 print(name1);
-
+print(age); 
 }
